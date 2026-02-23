@@ -1,2 +1,2 @@
 # PROYECTO-FINAL-TRIPLETEN-AN-LISIS-
-Desarrollé un análisis completo sobre operadores ineficientes dentro de una empresa de telecomunicaciones, creando umbrales de ineficiencia y visualizaciones de datos suficientes para poder ayudar a dicha empresa a oporar de mejor manera.
+Conducted a comprehensive operational efficiency analysis within a telecommunications company to identify underperforming operators. Defined performance and inefficiency thresholds, applied statistical evaluation, and developed clear data visualizations to support decision-making and improve overall operational performance.
